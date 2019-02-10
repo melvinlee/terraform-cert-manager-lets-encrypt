@@ -1,5 +1,7 @@
 variable "do_token" {}
-variable "region" {}
+variable "region" {
+  default = "sfo2"
+}
 
 variable "doks_version" {
   default = "1.13.1-do.2"
