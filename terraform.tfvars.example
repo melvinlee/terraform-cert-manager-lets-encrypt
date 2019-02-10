@@ -1,0 +1,11 @@
+do_token = ""
+region = ""
+
+cloudflare_email = ""
+cloudflare_token = ""
+cloudflare_zone = ""
+
+# default is staging
+#acme_server_url = "https://acme-staging-v02.api.letsencrypt.org/directory"
+#acme_server_url = "https://acme-v02.api.letsencrypt.org/directory"
+acme_email = ""
